@@ -1,1 +1,3 @@
 this is a simple test file for working with GIT
+
+This line is to test a change to the file
